@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+/**
+ * 
+ * @author Tim Fierek
+ *
+ */
+public class GreeterApp {
+
+	private static Scanner scnr;
+	
+	public static void main(String[] args) {
+		scnr = new Scanner(System.in);
+		String greeting = "";
+		String name = "";
+		
+		while(greeting.equals("")) {
+			System.out.print("Choose a greeting: ");
+			
+			try {
+				greeting = scnr.nextLine();
+			} catch(Exception e) {
+				System.out.println("Invalid input encountered...");
+			}
+		}
+		
+		while(name.equals("")) {
+			System.out.print("Enter your name: ");
+			
+			try {
+				name = scnr.nextLine();
+			} catch(Exception e) {
+				System.out.println("Invalid input encountered...");
+			}
+		}
+		
+		Greeter greeting1 = new Greeter(greeting);
+		System.out.println(greeting1.greet(name));
+
+	}
+
+}

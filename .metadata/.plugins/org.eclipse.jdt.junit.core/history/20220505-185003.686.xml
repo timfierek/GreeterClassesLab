@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GreeterTest" project="GreeterClassesLab" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="GreeterTest" time="0.007" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]">
+    <testcase name="testGreeterConstructer" classname="GreeterTest" time="0.007" displayname="testGreeterConstructer()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testGreeterConstructer()]"/>
+    <testcase name="testGreeterGreetMethod" classname="GreeterTest" time="0.0" displayname="testGreeterGreetMethod()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testGreeterGreetMethod()]"/>
+  </testsuite>
+</testrun>

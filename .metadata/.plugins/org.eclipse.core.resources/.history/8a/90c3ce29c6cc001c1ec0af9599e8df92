@@ -1,0 +1,19 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class GreeterTest {
+
+	@Test
+	void testGreeterConstructer() {
+		Greeter greet1 = new Greeter("Hello");
+		assertEquals("Hello", greet1.getGreeting());
+	}
+	
+	@Test
+	void testGreeterGreetMethod() {
+		Greeter greet2 = new Greeter("Hola");
+		assertEquals("Hola, Tim!", greet2.greet("Tim"));
+	}
+
+}
