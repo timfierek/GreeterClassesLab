@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GreeterTest" project="GreeterClassesLab" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="GreeterTest" time="0.012" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]">
+    <testcase name="testGreeterGreetMethod1" classname="GreeterTest" time="0.008" displayname="testGreeterGreetMethod1()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testGreeterGreetMethod1()]"/>
+    <testcase name="testGreeterGreetMethod2" classname="GreeterTest" time="0.0" displayname="testGreeterGreetMethod2()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testGreeterGreetMethod2()]"/>
+    <testcase name="testSimonGreeterConstructer1" classname="GreeterTest" time="0.001" displayname="testSimonGreeterConstructer1()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testSimonGreeterConstructer1()]"/>
+    <testcase name="testSimonGreeterConstructer2" classname="GreeterTest" time="0.0" displayname="testSimonGreeterConstructer2()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testSimonGreeterConstructer2()]"/>
+    <testcase name="testSimonGreeterGreetMethod1" classname="GreeterTest" time="0.001" displayname="testSimonGreeterGreetMethod1()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testSimonGreeterGreetMethod1()]"/>
+    <testcase name="testSimonGreeterGreetMethod2" classname="GreeterTest" time="0.0" displayname="testSimonGreeterGreetMethod2()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testSimonGreeterGreetMethod2()]"/>
+    <testcase name="testGreeterConstructer1" classname="GreeterTest" time="0.001" displayname="testGreeterConstructer1()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testGreeterConstructer1()]"/>
+    <testcase name="testGreeterConstructer2" classname="GreeterTest" time="0.0" displayname="testGreeterConstructer2()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testGreeterConstructer2()]"/>
+  </testsuite>
+</testrun>

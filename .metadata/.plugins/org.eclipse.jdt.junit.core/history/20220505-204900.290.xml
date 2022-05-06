@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GreeterTest.testHtmlGreeterConstructor2" project="GreeterClassesLab" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="GreeterTest" time="0.006" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]">
+    <testcase name="testHtmlGreeterConstructor2" classname="GreeterTest" time="0.006" displayname="testHtmlGreeterConstructor2()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:testHtmlGreeterConstructor2()]"/>
+  </testsuite>
+</testrun>

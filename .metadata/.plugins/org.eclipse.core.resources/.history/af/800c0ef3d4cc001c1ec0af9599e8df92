@@ -1,0 +1,19 @@
+/**
+ * Greeter subclass with added addVolume method and overridden greet method
+ * 
+ * @author Tim Fierek
+ *
+ */
+public class LoudGreeter extends Greeter{
+
+	private String extra = "!";
+	
+	public LoudGreeter(String greeting){
+		super(greeting);
+	}
+	
+	public void addVolume() {
+		extra += "!";
+	}
+	
+}
